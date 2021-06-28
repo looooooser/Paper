@@ -10,4 +10,4 @@ filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+image attentio
 3. [Neural News Recommendation with Attentive Multi-View Learning](https://arxiv.org/pdf/1907.05576.pdf): Text multi-field attention.
 
 ## Baidu
-1. [Pre-trained Language Model for Web-scale Retrieval in Baidu Search](https://arxiv.org/pdf/2106.03373.pdf)
+1. [Pre-trained Language Model for Web-scale Retrieval in Baidu Search](https://arxiv.org/pdf/2106.03373.pdf): ERNIE-Baidu recall model for web retrieval.
