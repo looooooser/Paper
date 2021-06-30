@@ -19,3 +19,5 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 1. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 2. [BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+3. [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+](https://arxiv.org/pdf/2103.14030.pdf)
