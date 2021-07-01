@@ -11,6 +11,8 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 
 ## Baidu
 1. [Pre-trained Language Model for Web-scale Retrieval in Baidu Search](https://arxiv.org/pdf/2106.03373.pdf): ERNIE-Baidu recall model for web retrieval.
+2. [Pre-trained Language Model based Ranking in Baidu Search](https://arxiv.org/pdf/2105.11108.pdf): Pyramid-ERNIE Baidu ranking model for web pages. 
+
 
 ## Taobao
 1. [Embedding-based Product Retrieval in Taobao Search](https://arxiv.org/pdf/2106.09297.pdf): MGDSPR-Taobao recall model for e-commerce retrieval.
