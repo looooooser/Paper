@@ -17,6 +17,11 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 ## Taobao
 1. [Embedding-based Product Retrieval in Taobao Search](https://arxiv.org/pdf/2106.09297.pdf): MGDSPR-Taobao recall model for e-commerce retrieval.
 
+
+## Zhihu
+1. [Beyond Lexical: A Semantic Retrieval Framework for Textual Search](https://arxiv.org/pdf/2008.03917.pdf): Zhihu recall model for doc retrieval.
+
+
 ## Milestone
 1. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 2. [BERT: Pre-training of Deep Bidirectional Transformers for
