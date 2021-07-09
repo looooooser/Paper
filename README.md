@@ -22,7 +22,8 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 1. [Beyond Lexical: A Semantic Retrieval Framework for Textual Search](https://arxiv.org/pdf/2008.03917.pdf): Zhihu recall model for doc retrieval.
 
 ## Airbnb
-1. [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591.pdf): Airbnb search model for booking listings.
+1. [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591.pdf): Airbnb search ranking model for booking listings.
+2. [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515.pdf): Airbnb search ranking model for booking listings with some improvement.
 
 
 ## Milestone
