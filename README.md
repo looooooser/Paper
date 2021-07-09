@@ -25,6 +25,9 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 1. [Applying Deep Learning To Airbnb Search](https://arxiv.org/pdf/1810.09591.pdf): Airbnb search ranking model for booking listings.
 2. [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515.pdf): Airbnb search ranking model for booking listings with some improvement.
 
+## Meituan Dianping
+1. https://zhuanlan.zhihu.com/p/387881443: LambdaDNN ranking model for dianping search.
+
 
 ## Milestone
 1. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
