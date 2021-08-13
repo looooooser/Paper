@@ -16,7 +16,7 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 
 ## Taobao
 1. [Embedding-based Product Retrieval in Taobao Search](https://arxiv.org/pdf/2106.09297.pdf): MGDSPR-Taobao recall model for e-commerce retrieval.
-
+2. [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction](https://arxiv.org/pdf/2011.05625.pdf)
 
 ## Zhihu
 1. [Beyond Lexical: A Semantic Retrieval Framework for Textual Search](https://arxiv.org/pdf/2008.03917.pdf): Zhihu recall model for doc retrieval.
@@ -27,6 +27,9 @@ and Image Filtering](https://www.ijcai.org/proceedings/2018/0577.pdf): Text+imag
 
 ## Meituan Dianping
 1. https://zhuanlan.zhihu.com/p/387881443: LambdaDNN ranking model for dianping search.
+
+## Feature Engineering
+1. [Feature Engineering for Machine Learning](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf)
 
 
 ## Milestone
